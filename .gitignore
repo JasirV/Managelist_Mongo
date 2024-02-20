@@ -1,0 +1,3 @@
+# Ignore config files
+/Server.js
+/node_modules
